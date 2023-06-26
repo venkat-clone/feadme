@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930982198740",
+    "project_id": "my-pet-fbd14",
+    "storage_bucket": "my-pet-fbd14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930982198740:android:d7b7ea9bef389fd0376a41",
+        "android_client_info": {
+          "package_name": "com.example.my_pet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930982198740-fmutml8dpkmi09noid6irf4f1llq84ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSsyuyaXhoUH-Lv2FQl3ss4UnKxCl0VfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930982198740-fmutml8dpkmi09noid6irf4f1llq84ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
